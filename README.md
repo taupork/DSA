@@ -109,6 +109,11 @@ Key Python packages are listed in `requirements.txt`:
 
 ## 🗂 Notes
 
+* Training Process: 
+
+Refer to src/training_process.ipynb => Click open in Google Collab => "Current Best" Header under "R2 Fold" (R2 Fold/Current Best..) 
+
+SSL Pretraining => Save to folder => Load into XGB Regressor + SSL Finetuning Pipeline => KFold Validation 
 
 ---
 
