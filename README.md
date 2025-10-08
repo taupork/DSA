@@ -1,9 +1,6 @@
 # DSA
 
 
-Here’s a professional, comprehensive README tailored for your **SSL + XGBoost Hb prediction project** suitable for GitHub:
-
----
 
 # Hb Prediction from Lip Images Using SSL + XGBoost
 
@@ -112,8 +109,6 @@ Key Python packages are listed in `requirements.txt`:
 
 ## 🗂 Notes
 
-* Place all saved models under `models/`.
-* Scripts live in `src/` for clarity and modularity.
 
 ---
 

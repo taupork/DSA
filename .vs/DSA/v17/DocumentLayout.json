@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arrak\\Learning\\DSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arrak\\Learning\\DSA\\src\\inference.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\inference.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inference.py",
+              "DocumentMoniker": "C:\\Users\\arrak\\Learning\\DSA\\src\\inference.py",
+              "RelativeDocumentMoniker": "src\\inference.py",
+              "ToolTip": "C:\\Users\\arrak\\Learning\\DSA\\src\\inference.py",
+              "RelativeToolTip": "src\\inference.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGSSURBVDhPrZPBauJgFIU/J6HqEEUcEaUmINpFRSYP4E7XPoIg7vo4LmTW\u002Bgq\u002BgIJdFOKmoEXqasLoRgYpJlWceGeTFJvObNoeuJv7n3Puf/nPDx\u002BBiERCLQW4BKKhfoAD8AvwwgcAJnALPAHP/6knn2OGxRfAHSDnlUgkJB6Pv\u002Br5dedrCFYwgAfgK4CiKNRqNcrlMpPJhN1ux2q1Oh/oAtfAz8DgCrgHYpVKhXa7TS6XYz6fY1kWuq5zOByYTqcsFguAPfAdeAwcr/wdpV6vy3A4FMdxRETE8zw5Ho/iuq50Op1ghWdfg\u002BIbfANuAFXTNGazGZZlkUwmyefz7Pd7xuMxvV6P7XYL8Af4Afz\u002BElwhgKqqeJ7HcrlkMBhg2zabzYZut4vrumE6bww0TaNUKlGtVikWi0QiEWzbRtd1UqlUmP7WYL1eYxgGpmlSKBQ4nU6k02kajQaqqobpLzAAJ3jnaDQqzWZT\u002Bv2\u002BjEYjabVaEovFznPg\u002BJoX/DNImUxGstlsOESvgnSOd0X5Uz/Tu/AX5GaztDWCToIAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-08T10:35:00.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
